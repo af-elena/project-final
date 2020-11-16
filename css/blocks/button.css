@@ -15,7 +15,6 @@
 .button--color--ginger {
   background: #FF3D00;
   margin-left: 342px;
-  transition: 0.9s;
 }
 
 .button button--color--ginger:hover {
@@ -29,6 +28,7 @@
   justify-content: flex-start;
   margin-top: auto;
   margin-bottom: 42px;
+  transition: 0.9s;
 }
 
 .button--color--white {
