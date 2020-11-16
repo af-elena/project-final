@@ -12,7 +12,7 @@
   display: block;
 }
 
-.contacts__header-dropdown-title-active {
+.contacts__header-dropdown-title--active {
   position: absolute;
   top: 100%;
   right: 0px;
