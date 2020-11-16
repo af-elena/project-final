@@ -5,6 +5,7 @@
 
 .form__input:focus {
   border: 1px solid #CCCCCC;
+  transition: 0.3s;
 }
 
 .form__input {
