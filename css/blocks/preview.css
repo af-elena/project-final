@@ -1,0 +1,15 @@
+/*.preview {
+  display: flex;
+  flex-direction: column;
+}*/
+
+.preview__text-section {
+  width: 77%;
+  margin-left: 132px;    
+}
+
+.preview__description {
+  font-size: 18px;
+  text-align: center;
+  margin-bottom: 60px;
+}

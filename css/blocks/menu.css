@@ -1,0 +1,36 @@
+.menu__list-header {
+  margin-left: 241px;
+}
+
+.menu__list {
+  margin-left: 130px;
+}
+
+.menu__list-footer {
+  margin-left: 80px;
+} 
+
+.menu__item {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 54px;
+}
+
+/*.menu__item--active .menu__link {
+  color: #FF3D00;
+}*/
+
+.menu__item:last-child {
+  margin-right: 0;
+}
+
+.menu__link {
+  font-size: 14px;
+  text-decoration: none;
+  transition: 0.5s;
+}
+
+.menu__link:hover {
+  color: #FF3D00;
+}
+

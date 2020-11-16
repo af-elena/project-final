@@ -1,0 +1,84 @@
+.button {
+  background: #FF3D00;
+  border-radius: 35px;
+  padding: 18px 54px 18px 53px;
+  color: #FFFFFF;
+  font-weight: bold;
+  font-size: 14px;
+  text-transform: uppercase;
+  text-decoration: none;
+  width: 198px;
+  height: 55px;
+  transition: 0.9s;
+}
+
+.button--color--ginger {
+  background: #FF3D00;
+  margin-left: 342px;
+}
+
+.button button--color--ginger:hover {
+  background: #FFFFFF;
+  box-shadow: 0 0 35 0 #FF3D00;
+  color: #FF3D00;
+}
+
+.options__button-wrapper {
+  display: flex;
+  justify-content: flex-start;
+  margin-top: auto;
+  margin-bottom: 42px;
+}
+
+.button--color--white {
+  background: #FFFFFF;
+  border: 2px solid #FF5500;
+  color: #FF5500;
+  text-decoration: none;
+}
+
+.button--color--white:hover {
+  background: #FF5500;
+  color: #FFFFFF;
+}
+
+.form__buttons {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.button--color--grey {
+  background: #8E8E8E;
+  width: 168px;
+  padding: 18px 44px;
+}
+
+.button--color--grey:hover {
+  background: #2B2B2B;
+}
+
+.button--color--orange {
+  background: #FF5500;
+}
+
+.button--color--orange:hover {
+  background: #FF3D00;
+}
+
+.form__button {
+  margin-right: 13px;
+}
+
+.form__button:last-child {
+  margin-right: 0;
+}
+
+.button--color--beige {
+  width: 168px;
+  background: #FF5500;
+  padding: 19px 57px;
+}
+
+.button--color--beige:hover {
+  background: #FF3D00;
+}
