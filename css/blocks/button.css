@@ -9,12 +9,13 @@
   text-decoration: none;
   width: 198px;
   height: 55px;
-  transition: 0.9s;
+  
 }
 
 .button--color--ginger {
   background: #FF3D00;
   margin-left: 342px;
+  transition: 0.9s;
 }
 
 .button button--color--ginger:hover {
