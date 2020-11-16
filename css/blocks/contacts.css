@@ -1,7 +1,7 @@
 .contacts__header {
   font-style: normal;
   text-align: right;
-  position: relative;
+  /*position: relative;*/
 }
 
 .contacts__header-phone {
@@ -9,17 +9,6 @@
   font-size: 26px;
   margin-bottom: 4px;
 }
-
-.contacts__header-dropdown-title {
-  /*position: absolute;*/
-  top: 32px;
-  right: 0px;
-  font-size: 13px;
-  text-decoration-line: underline;
-  color: #FF3D00;
-
-}
-
 
 .contacts__desc {
   color: #9A9A9A;
