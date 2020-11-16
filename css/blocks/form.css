@@ -3,6 +3,10 @@
   margin-bottom: 30px;
 }
 
+.form__input:focus {
+  border: 1px solid #CCCCCC;
+}
+
 .form__input {
   flex: 1;
   margin-right: 28px;
