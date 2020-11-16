@@ -23,6 +23,7 @@
 
 .pager__item .pager__link:hover {
   background: #FF5500;
+  transition: 0.5s;
 }
 
 .pager__link {
